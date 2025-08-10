@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/processed/
+.ipynb_checkpoints/
+# keep models in repo for deployment
