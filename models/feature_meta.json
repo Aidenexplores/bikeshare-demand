@@ -1,0 +1,31 @@
+{
+  "features": [
+    "dow",
+    "month",
+    "is_weekend",
+    "doy_sin",
+    "doy_cos",
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_28",
+    "roll_mean_7",
+    "roll_mean_14",
+    "roll_mean_28",
+    "station_idx"
+  ],
+  "train_end": "2023-12-31",
+  "valid_end": "2024-06-30",
+  "n_rows": 1153596,
+  "n_stations": 924,
+  "metrics": {
+    "valid": {
+      "rmse": 10.338463323733658,
+      "mape": 0.5691329662651988
+    },
+    "test": {
+      "rmse": 13.070881088867424,
+      "mape": 0.42538051842280444
+    }
+  }
+}
