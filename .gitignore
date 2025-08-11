@@ -4,3 +4,15 @@ __pycache__/
 data/processed/
 .ipynb_checkpoints/
 # keep models in repo for deployment
+# ignore all data by default
+data/
+# but allow processed artifacts
+!data/processed/
+!data/processed/*.csv.gz
+!data/processed/*.parquet
+
+# data rules
+data/
+!data/processed/
+!data/processed/*.csv.gz
+!data/processed/*.parquet
