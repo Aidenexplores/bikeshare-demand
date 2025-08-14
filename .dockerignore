@@ -7,6 +7,5 @@ data/raw/
 data/processed/*.parquet
 data/processed/*.csv
 data/processed/*.csv.gz
-models/*.joblib
 .env
 .DS_Store
