@@ -1,0 +1,12 @@
+.git
+.gitignore
+.gitattributes
+__pycache__/
+*.pyc
+data/raw/
+data/processed/*.parquet
+data/processed/*.csv
+data/processed/*.csv.gz
+models/*.joblib
+.env
+.DS_Store
