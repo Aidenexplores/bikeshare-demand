@@ -16,3 +16,6 @@ data/
 !data/processed/
 !data/processed/*.csv.gz
 !data/processed/*.parquet
+
+# macOS
+.DS_Store
