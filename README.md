@@ -6,17 +6,9 @@ App (Streamlit): https://bikeshare-app-628939884230.northamerica-northeast1.run.
 
 API (FastAPI docs): https://bikeshare-api-628939884230.northamerica-northeast1.run.app/docs
 
-Team
 
-Vivek Panchal
 
-Ronak Choudhary
-
-Louisian Nwnakwo — 101504876
-
-Aiden Ebrahimi — 101587264
-
-Binaya Thapa Magar
+By : Aiden Ebrahimi
 
 Project Overview
 
